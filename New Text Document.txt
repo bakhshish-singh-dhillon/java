@@ -1,0 +1,12 @@
+java.awt.*;
+java.applet.*;
+public class Squares extends Applet
+{
+public void paint(Graphics g)
+{
+g.setColor(Color.green);
+g.fillrect(10,60,20,20);
+g.setColor(Color.red);
+g.fillrect(40,60,20,20);
+}
+}

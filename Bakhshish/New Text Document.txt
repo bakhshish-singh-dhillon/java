@@ -1,0 +1,7 @@
+static class Bakhshish
+{
+String out.println(String str)
+{
+System.out.println(str);
+}
+}
